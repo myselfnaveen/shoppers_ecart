@@ -1,0 +1,6 @@
+C:\Users\local pc\documents\visual studio 2013\Projects\shopping_shop\shopping_shop\bin\shopping_shop.dll.config
+C:\Users\local pc\documents\visual studio 2013\Projects\shopping_shop\shopping_shop\bin\shopping_shop.dll
+C:\Users\local pc\documents\visual studio 2013\Projects\shopping_shop\shopping_shop\bin\shopping_shop.pdb
+C:\Users\local pc\documents\visual studio 2013\Projects\shopping_shop\shopping_shop\obj\Debug\shopping_shop.dll
+C:\Users\local pc\documents\visual studio 2013\Projects\shopping_shop\shopping_shop\obj\Debug\shopping_shop.pdb
+C:\Users\local pc\Documents\Visual Studio 2013\Projects\shopping_shop\shopping_shop\obj\Debug\shopping_shop.csprojResolveAssemblyReference.cache

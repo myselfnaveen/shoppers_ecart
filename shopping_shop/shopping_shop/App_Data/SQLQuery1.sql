@@ -1,0 +1,10 @@
+create database shoppingshop;
+create table productdb(product_id varchar(50) primary key,product_name varchar(50),product_price money);
+create table cartdb(username varchar(50),product_id varchar(50),quality varchar(50),total money);
+use shoppingshop;
+select * from cartdb;
+insert into userdb values('boojan','raj');
+drop table userdb;
+drop table productdb;
+create table userdb(username varchar(50) primary key not null,password varchar(50) not null);
+select * from userdb;
